@@ -9,7 +9,7 @@ Data Description:  This dataset contains sales transactions from three different
 Tasks Performed:
 1. Data Wrangling- Inspection of data to check for null values and replacement methods used for missing and null values.
 2. Feature Engineering- Additional columns created using the existing ones.
-3. Exo+ploratory Data Analysis- To answer the listed questions aimed for sales analysis.
+3. Exploratory Data Analysis- To answer the listed questions aimed for sales analysis.
 
 Key Questions Answered:
 o Branch & City Insights
